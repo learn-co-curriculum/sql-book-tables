@@ -1,4 +1,9 @@
-# Pre-face
+---
+  tags: tutorial, book
+  languages: sql
+---
+
+# Preface
 
 ## 0.0 Who is this tutorial for?
 
