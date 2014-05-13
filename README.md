@@ -645,7 +645,7 @@ This shouldn't affect you at all working through the rest of the material, but i
 
 ## Resources
 * [SQLite](http://www.sqlite.org/) - [SQLite Docs](http://www.sqlite.org/docs.html) 
-* [Homebrew](http://brew.sh/) - [](http://brew.sh/)
+* [Homebrew](http://brew.sh/) - [Home](http://brew.sh/)
 * [TreeHouse Blog](http://blog.teamtreehouse.com/) - [Command Line Basics](http://blog.teamtreehouse.com/command-line-basics)
 * [Coursera](https://www.coursera.org/) - [Stanford University Introduction to Databases](https://www.coursera.org/course/db)
 * [ZetCode](http://zetcode.com/) - [SQLite tutorial](http://zetcode.com/db/sqlite/)
