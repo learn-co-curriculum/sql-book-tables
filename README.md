@@ -1,6 +1,7 @@
 ---
   tags: tutorial, book
   languages: sql
+  resources: 5
 ---
 
 # Preface
@@ -641,3 +642,10 @@ This shouldn't affect you at all working through the rest of the material, but i
 
 <small>
 2. SQLite actually calls its system for this "type affinity," and these types all have several aliases that you might see used elsewhere. Read more at [http://www.sqlite.org/datatype3.html](http://www.sqlite.org/datatype3.html)
+
+## Resources
+* [SQLite](http://www.sqlite.org/) - [SQLite Docs](http://www.sqlite.org/docs.html), page 
+* [Homebrew](http://brew.sh/) - [](http://brew.sh/)
+* [TreeHouse Blog](http://blog.teamtreehouse.com/) - [Command Line Basics](http://blog.teamtreehouse.com/command-line-basics)
+* [Coursera](https://www.coursera.org/) - [Stanford University Introduction to Databases](https://www.coursera.org/course/db)
+* [ZetCode](http://zetcode.com/) - [SQLite tutorial](http://zetcode.com/db/sqlite/)
