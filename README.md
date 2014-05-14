@@ -106,7 +106,7 @@ open .
 
 into your terminal which will open the current directory in Finder. Locate test.db. Got it? Ok, you're ready to rock.
 
-## Resources
+## Resources (also included in footer)
 
 - [SQLite Documentation](http://www.sqlite.org/docs.html)
 - [Homebrew](http://mxcl.github.com/homebrew/)
