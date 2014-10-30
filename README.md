@@ -393,7 +393,7 @@ ALTER TABLE people RENAME TO cats;
 
 Ok that was pretty straight forward, again. We wanted to `ALTER` the `people` table, and we wanted to `RENAME` it `TO` `cats`. Nice. Let's take a look at the schema:
 
-```sqlite
+```sql
 sqlite> .schema
 CREATE TABLE "cats"(
   name TEXT,
@@ -433,7 +433,7 @@ That could all be just pasted in to a sqlite prompt, though it's probably a bad 
 
 Ok, so now our schema is looking good.
 
-```sqlite
+```sql
 sqlite> .schema
 CREATE TABLE cats(
   name TEXT,
