@@ -82,7 +82,7 @@ Once you've installed it, make sure you can run it:
 sqlite3 test_sqlite.db
 ```
 
-This will open a new database file called test.db and open it in the sqlite prompt. You should see something like:
+This will open a new database file called test_sqlite.db and open it in the sqlite prompt. You should see something like:
 
 ```
 SQLite version 3.7.12 2013-03-19 12:42:02
@@ -98,13 +98,13 @@ sqlite> create table test_table(id);
 sqlite> .quit
 ```
 
-You should have created a test.db file. Either open up the directory you are working from in finder or just paste
+You should have created a test_sqlite.db file. Either open up the directory you are working from in finder or just paste
 
 ```bash
 open .
 ```
 
-into your terminal which will open the current directory in Finder. Locate test.db. Got it? Ok, you're ready to rock.
+into your terminal which will open the current directory in Finder. Locate test_sqlite.db. Got it? Ok, you're ready to rock.
 
 ## Resources (also included in footer)
 
