@@ -553,7 +553,7 @@ Awesome. We successfully created and manipulated our database, and those changes
 
 Let's create some files we can keep track of all the commands we are going to execute against our database. This will give you an organized record of everything we do, and also make it easier for you to work on excercises, while giving you the ability to take breaks in the middle of them with out losing your place too badly.
 
-To do this, you're going to want to use a text editor. There are a number, and oh my are there opinions about them. I'm partial to [Sublime Text](http://www.sublimetext.com/), and I suggest you use it. It's very easy to install and using it is a breeze.
+To do this, you're going to want to use a text editor. There are a number, and oh my are there opinions about them. I'm partial to [Nitrous](http://www.nitrous.io), and I suggest you use it. It's very easy to install and using it is a breeze.
 
 First, exit sqlite and delete the magical.db file from the directory. You can either do this manually, or use the command-line `rm magical.db` or I think it's `del magical.db` on windows.
 
