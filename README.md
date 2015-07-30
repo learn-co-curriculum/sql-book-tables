@@ -119,9 +119,9 @@ into your terminal which will open the current directory in Finder. Locate test_
 | name |  age  |         email           |
 ==========================================
 | Bob  |  29   | bob@flatironschool.com  |
-------------------
+------------
 | Avi  |  28   | avi@flatironschool.com  |
-------------------
+------------
 | Adam |  28   | adam@flatironschool.com |
 ```
 
@@ -163,9 +163,9 @@ Remember that table we imagined when we were talking about structure?
 | name |  age  |         email           |
 ==========================================
 | Bob  |  29   | bob@flatironschool.com  |
-------------------
+------------
 | Avi  |  28   | avi@flatironschool.com  |
-------------------
+------------
 | Adam |  28   | adam@flatironschool.com |
 ```
 
