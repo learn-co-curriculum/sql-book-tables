@@ -1,5 +1,4 @@
 
-
 # Preface
 
 ## 0.0 Who is this tutorial for?
@@ -10,7 +9,7 @@ Right now the tutorial assumes you are on a Mac. All of the SQL commands and exe
 
 ## 0.1 Pep Talk
 
-Learning any kind programing can be a challenge, but the biggest thing you need to get up and running is persistance. If you're what they call a programming noob, you are going to feel dense or like you are banging your head up against the wall at times. Keep going! You will get it if you keep trying I promise. 
+Learning any kind of programing can be a challenge, but the biggest thing you need to get up and running is persistance. If you're what they call a programming noob, you are going to feel dense or like you are banging your head up against the wall at times. Keep going! You will get it if you keep trying I promise. 
 
 Get used to feeling kind of dumb, because you are right now. Embrace your inner noob! Shout it out from a mountain top. "I AM A SQL NEWB!" Call your mother, tell random strangers on the street, make a t-shirt, get some new noob friends. No, really, get some new newb friends! All types of learners do a lot better when they work in groups. Start a study-session with some friends. Find a meet-up group. Use the discussion board. Get social. This stuff will stick a lot better if you don't sit by yourself struggling with it, but if you sit down and work it out with some friends.
 
