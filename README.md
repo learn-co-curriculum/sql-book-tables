@@ -642,4 +642,4 @@ This shouldn't affect you at all working through the rest of the material, but i
 * [DataTypes](http://www.padjo.org/tutorials/databases/sql-data-types/)
 * [NULL State of Databases](http://www.padjo.org/tutorials/databases/sql-null/)
 
-<a href='https://learn.co/lessons/sql-book-tables' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-book-tables' title='Preface'>Preface</a> on Learn.co and start learning to code for free.</p>
